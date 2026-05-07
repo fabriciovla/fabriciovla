@@ -11,3 +11,4 @@ I'm a Full Stack Web Developer who builds modern, efficient, and scalable web ap
 
 ## My Projects
 - ColorLab https://colorlab-olive.vercel.app/
+- Antena 8 https://www.antena8noticias.com.ar/
